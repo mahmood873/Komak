@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Komak</string>
+    <string name="title_donation">Donation</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_contact">Contact Us</string>
+    <string name="title_profile">Profile</string>
+    <string name="contact">Contact Details</string>
+    <string name="address">Address</string>
+    <string name="member">Already a Member? LOG-IN</string>
+    <string name="google">Sign Up with Google</string>
+    <string name="facebook">Sign Up with Facebook</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

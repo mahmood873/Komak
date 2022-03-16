@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76637059665",
+    "project_id": "komak-29568",
+    "storage_bucket": "komak-29568.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76637059665:android:d2665351d0c2b937c1d670",
+        "android_client_info": {
+          "package_name": "com.example.komak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76637059665-91up269790m2cr4r8fntd9bmmh3h0itp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPmFwyjrzWPsA8A9FG1xQx6jyix7lr2os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76637059665-91up269790m2cr4r8fntd9bmmh3h0itp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
